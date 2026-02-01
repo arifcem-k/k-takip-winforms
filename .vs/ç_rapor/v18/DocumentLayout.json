@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AEF984-50E1-48AE-B91D-FA17893418FE}|k_takip\\\u00E7_rapor.csproj|c:\\users\\lenovo\\desktop\\\u00E7_rapor\\k_takip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9AEF984-50E1-48AE-B91D-FA17893418FE}|k_takip\\\u00E7_rapor.csproj|solutionrelative:k_takip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AEF984-50E1-48AE-B91D-FA17893418FE}|k_takip\\\u00E7_rapor.csproj|c:\\users\\lenovo\\desktop\\\u00E7_rapor\\k_takip\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9AEF984-50E1-48AE-B91D-FA17893418FE}|k_takip\\\u00E7_rapor.csproj|solutionrelative:k_takip\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AEF984-50E1-48AE-B91D-FA17893418FE}|k_takip\\\u00E7_rapor.csproj|C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\k_takip\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9AEF984-50E1-48AE-B91D-FA17893418FE}|k_takip\\\u00E7_rapor.csproj|solutionrelative:k_takip\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AEF984-50E1-48AE-B91D-FA17893418FE}|k_takip\\\u00E7_rapor.csproj|C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\k_takip\\kaydolma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9AEF984-50E1-48AE-B91D-FA17893418FE}|k_takip\\\u00E7_rapor.csproj|solutionrelative:k_takip\\kaydolma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AEF984-50E1-48AE-B91D-FA17893418FE}|k_takip\\\u00E7_rapor.csproj|C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\k_takip\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9AEF984-50E1-48AE-B91D-FA17893418FE}|k_takip\\\u00E7_rapor.csproj|solutionrelative:k_takip\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\k_takip\\Program.cs",
+              "RelativeDocumentMoniker": "k_takip\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\k_takip\\Program.cs",
+              "RelativeToolTip": "k_takip\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T17:21:31.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rapor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\k_takip\\rapor.cs",
+              "RelativeDocumentMoniker": "k_takip\\rapor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\k_takip\\rapor.cs",
+              "RelativeToolTip": "k_takip\\rapor.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T14:09:24.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rapor.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\k_takip\\rapor.cs",
+              "RelativeDocumentMoniker": "k_takip\\rapor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\k_takip\\rapor.cs [Tasar\u0131m]",
+              "RelativeToolTip": "k_takip\\rapor.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T01:33:04.806Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kaydolma.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\k_takip\\kaydolma.cs",
+              "RelativeDocumentMoniker": "k_takip\\kaydolma.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\k_takip\\kaydolma.cs [Tasar\u0131m]",
+              "RelativeToolTip": "k_takip\\kaydolma.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T01:33:04.743Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\k_takip\\giris.cs",
+              "RelativeDocumentMoniker": "k_takip\\giris.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u00E7_rapor\\k_takip\\giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "k_takip\\giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T01:33:04.772Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
